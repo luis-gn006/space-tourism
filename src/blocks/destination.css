@@ -1,0 +1,8 @@
+.destination {
+  background: url(../images/destination/background-destination-mobile.jpg) no-repeat center;
+  background-size: cover;
+  box-sizing: content-box;
+  background-color: #000;
+  color: #D0D6F9;
+  font-family: 'Barlow Condensed', sans-serif;
+}

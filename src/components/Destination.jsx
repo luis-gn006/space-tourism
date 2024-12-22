@@ -28,7 +28,7 @@ function Destination() {
           </div>
           <div className="destination__time">
           <h4 className="destination__time-title">EST. TRAVEL TIME</h4>
-          <p className="destination__time-days">3 days</p>
+          <p className="destination__time-days">3 days.</p>
           </div>
         </div>
       </main>
